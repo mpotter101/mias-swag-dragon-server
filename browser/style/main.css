@@ -1,0 +1,16 @@
+body {
+    background-color: #2f3d47;
+    color: #a6adcb;
+}
+
+a {
+    font-weight: bold;
+}
+
+a:link {
+    color: #89bdfa;
+}
+
+a:visited {
+    color: #e8318f;
+}
